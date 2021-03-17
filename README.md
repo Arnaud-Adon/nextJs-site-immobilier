@@ -2,7 +2,7 @@
 
 - Contributor: Arnaud-Adon
 - Status: Closed
-- Reasons: To learn more about NextJS architecture, static page, server side rendering, etc...
+- Reasons: :small_red_triangle: To learn more about NextJS architecture, static page, server side rendering, etc...
 
 
 ## Description
