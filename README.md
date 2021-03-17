@@ -10,7 +10,7 @@
 Real estate purchase site developed with Next.js who is a React Framework. To have the possibility to make static pages or server side rendering in order to improve SEO.
 Datas used for the website come from of a extern public API hosted on Heroku for a training.
 
->> website available on Vercel plateform : [Here](https://next-js-site-immobilier-d9e3ohjxp.vercel.app/)
+>> :link:  website available on Vercel plateform : [Here](https://next-js-site-immobilier-d9e3ohjxp.vercel.app/)
 
 ### Main features
 
